@@ -1,0 +1,3 @@
+[submodule "bitsbids4/bitsbids4/frontend/BitsBids-frontend"]
+	path = bitsbids4/bitsbids4/frontend/BitsBids-frontend
+	url = https://github.com/quarkum-0/BitsBids-frontend
